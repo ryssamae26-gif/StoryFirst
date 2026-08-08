@@ -133,6 +133,8 @@ PASSWORD = ""
 3. The application starts in the NetBeans Output console
 
 ### Usage Walkthrough
+```
+
 
 ========================================================
         STORYFIRST PH - EVENT QUOTATION REQUEST          
@@ -168,6 +170,8 @@ Client Reference ID: 1
 [ SIMULATED EMAIL NOTIFICATION ]
 
 Thank you! You may close this window.
+```
+
 ## Validation Rules
 
 | Field | Validation Rule |

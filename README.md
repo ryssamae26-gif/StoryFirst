@@ -42,6 +42,8 @@ This project follows a clean layered architecture: *Model → Repository → Ser
 ---
 
 ## Database Schema
+```
+
 storyfirst_ph
 │
 ├── clients
@@ -68,8 +70,12 @@ storyfirst_ph
 *Indexes:* idx_client_email, idx_request_client, idx_request_date, idx_request_status
 
 ---
+```
+
 
 ## Project Structure
+```
+
 StoryFirstPH/
 ├── src/
 │   ├── config/
@@ -94,6 +100,7 @@ StoryFirstPH/
 ├── build.xml
 └── manifest.mf
 ---
+```
 
 ## Installation & Setup
 
